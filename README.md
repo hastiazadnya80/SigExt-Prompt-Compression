@@ -11,7 +11,7 @@
 
 This repository contains two extensions for efficient LLM-based abstractive summarization using **SigExt** keyphrase salience scores. The goal is to reduce prompt length — and therefore API cost and latency — while preserving summary quality. Both modules are evaluated using ROUGE and BERTScore against full-text baselines.
 
-> Full methodology and experimental results: [Report.pdf](Report.pdf)
+
 
 ---
 
